@@ -1,5 +1,8 @@
 _repo: Mike_7423
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -19,6 +22,8 @@ description: "Mike is a novel by P. G. Wodehouse, first published on 15 Septembe
   \ Lambs in its serialised version, was released as Enter Psmith in 1935 and then\
   \ as Mike and Psmith in 1953 – this marks the first appearance of the popular character\
   \ of Psmith.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7423#Mike
 gutenberg_bookshelf:
 - Humor
 - School Stories
